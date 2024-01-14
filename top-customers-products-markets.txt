@@ -1,10 +1,6 @@
-Chapter:- SQL Advanced: Top Customers, Products, Markets
-
-
-
 ### Module: Problem Statement and Pre-Invoice Discount Report
 
--- Include pre-invoice deductions in Croma detailed report
+-- Include pre-invoice deductions in Croma's detailed report
 	SELECT 
     	   s.date, 
            s.product_code, 
